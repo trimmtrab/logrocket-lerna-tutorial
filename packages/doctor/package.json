@@ -1,5 +1,5 @@
 {
-  "name": "@hospital-sdk/doctor",
+  "name": "@hospital-sdk-trimmtrab/doctor",
   "version": "1.0.2",
   "description": "> TODO: description",
   "author": "Artem Zimin <atm.zmn95@gmail.com>",
@@ -19,5 +19,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "tsc": "tsc"
-  }
+  },
+  "gitHead": "7f7a1de5317a2c5dcc1012533bf8f26fb8e5f541"
 }
