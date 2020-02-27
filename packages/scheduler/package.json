@@ -2,7 +2,7 @@
   "name": "@hospital-sdk/scheduler",
   "version": "0.0.0",
   "description": "> TODO: description",
-  "author": "Artem Zimin <artem_zimin@epam.com>",
+  "author": "Artem Zimin <atm.zmn95@gmail.com>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/scheduler.js",
