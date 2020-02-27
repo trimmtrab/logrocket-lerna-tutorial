@@ -1,0 +1,21 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Artem Zimin <atm.zmn95@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^8.6.2"
+  },
+  "dependencies": {
+    "@hospital-sdk-trimmtrab/doctor": "^1.0.3",
+    "@hospital-sdk-trimmtrab/patient": "^1.0.3",
+    "@hospital-sdk-trimmtrab/scheduler": "^1.0.3"
+  }
+}
